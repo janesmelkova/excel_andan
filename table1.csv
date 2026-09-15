@@ -1,0 +1,301 @@
+Год,Должность,Уровень_опыта,Формат_работы,Страна_компании,Размер_компании,Зарплата_USD
+2023,Data Scientist,Senior-level,On-site,US,L,247600
+2025,Engineer,Executive-level,On-site,US,M,253000
+2024,Associate,Entry-level,Remote,US,M,144900
+2025,Data Scientist,Mid-level,On-site,US,M,153300
+2025,Analytics Engineer,Mid-level,Remote,US,M,183000
+2022,Machine Learning Engineer,Senior-level,Remote,US,L,202900
+2024,Data Scientist,Mid-level,On-site,US,M,146000
+2023,Data Scientist,Senior-level,On-site,US,M,205500
+2025,Data Scientist,Senior-level,On-site,US,M,277000
+2024,Data Scientist,Senior-level,On-site,US,M,293800
+2025,Machine Learning Engineer,Entry-level,On-site,US,L,120000
+2024,Data Analyst,Mid-level,On-site,US,M,152300
+2023,Data Architect,Executive-level,On-site,US,M,155000
+2025,Data Scientist,Mid-level,On-site,US,M,82058
+2022,Machine Learning Engineer,Senior-level,Hybrid,FR,L,84053
+2024,Machine Learning Engineer,Mid-level,On-site,US,M,162000
+2025,Machine Learning Engineer,Mid-level,On-site,US,M,225000
+2025,Data Engineer,Senior-level,On-site,US,M,162090
+2021,Data Engineer,Mid-level,Hybrid,GB,S,66022
+2024,Data Architect,Senior-level,Remote,US,M,170000
+2025,Analytics Engineer,Senior-level,On-site,NL,M,78012
+2025,Engineer,Senior-level,Remote,US,M,266500
+2024,Engineer,Senior-level,Remote,US,M,160160
+2022,Data Engineer,Mid-level,Remote,US,M,90000
+2025,Manager,Senior-level,On-site,US,M,204050
+2021,Data Analyst,Senior-level,Hybrid,DE,L,63831
+2024,Product Manager,Mid-level,On-site,US,M,220000
+2025,Software Engineer,Senior-level,Remote,US,M,179657
+2025,Data Scientist,Executive-level,On-site,CA,M,176428
+2025,Analyst,Senior-level,On-site,US,M,116500
+2025,AI Engineer,Senior-level,Remote,US,M,173000
+2025,Data Engineer,Senior-level,On-site,US,M,105000
+2024,Software Engineer,Entry-level,On-site,US,M,108000
+2024,Analyst,Mid-level,On-site,US,M,51000
+2024,Manager,Senior-level,On-site,US,M,200500
+2022,Machine Learning Engineer,Senior-level,Remote,US,L,200000
+2025,Data Scientist,Mid-level,Remote,US,M,123200
+2024,Data Engineer,Mid-level,On-site,US,M,188500
+2025,Software Engineer,Senior-level,Remote,US,M,216750
+2024,Data Analyst,Senior-level,On-site,US,M,180100
+2021,Data Scientist,Mid-level,Remote,US,S,82500
+2024,AI Engineer,Executive-level,On-site,US,M,240000
+2021,Data Engineer,Mid-level,Hybrid,GB,L,72212
+2025,Software Engineer,Senior-level,On-site,US,M,110100
+2025,Research Scientist,Senior-level,On-site,US,M,175000
+2024,Data Analyst,Senior-level,On-site,US,M,151000
+2025,Data Engineer,Mid-level,On-site,CA,M,167000
+2024,Software Engineer,Mid-level,Remote,US,M,136800
+2025,Data Scientist,Mid-level,On-site,US,M,440000
+2024,Data Analyst,Senior-level,On-site,US,M,100756
+2025,Engineer,Senior-level,Remote,US,M,99000
+2024,AI Engineer,Mid-level,On-site,US,M,65000
+2025,AI Engineer,Mid-level,On-site,US,M,125005
+2021,Data Engineer,Entry-level,Hybrid,IN,M,21637
+2022,Machine Learning Engineer,Mid-level,Hybrid,GB,L,128058
+2024,Data Engineer,Senior-level,On-site,US,M,230750
+2024,Data Engineer,Executive-level,Remote,US,M,281800
+2023,Data Scientist,Senior-level,Remote,US,M,240000
+2024,Data Scientist,Senior-level,On-site,US,M,123200
+2024,Product Manager,Senior-level,On-site,US,M,187000
+2025,Engineer,Senior-level,On-site,GB,M,90579
+2024,Research Scientist,Senior-level,On-site,US,M,720000
+2023,Analytics Engineer,Senior-level,On-site,US,M,113100
+2024,Data Engineer,Mid-level,On-site,DE,L,130000
+2025,Data Scientist,Senior-level,Remote,US,M,200475
+2023,Data Analyst,Senior-level,Remote,US,M,192300
+2024,Software Engineer,Senior-level,Remote,US,M,133859
+2025,Software Engineer,Executive-level,On-site,US,M,176400
+2025,Engineer,Senior-level,On-site,US,M,105500
+2025,Data Architect,Senior-level,On-site,US,M,204000
+2021,Data Scientist,Entry-level,Remote,DE,S,76833
+2023,Data Engineer,Mid-level,On-site,US,M,179000
+2025,Software Engineer,Senior-level,Remote,US,M,62000
+2024,Manager,Mid-level,On-site,US,M,158000
+2025,Engineer,Senior-level,On-site,US,L,99500
+2024,Software Engineer,Executive-level,On-site,US,M,243300
+2025,Data Scientist,Mid-level,On-site,US,M,202000
+2025,Data Engineer,Senior-level,On-site,US,M,92700
+2025,Associate,Mid-level,On-site,US,M,121000
+2024,Research Scientist,Mid-level,On-site,US,M,165000
+2025,Data Analyst,Executive-level,On-site,US,M,142500
+2025,Data Scientist,Senior-level,On-site,US,M,116300
+2025,Software Engineer,Senior-level,On-site,US,M,117300
+2025,Data Engineer,Senior-level,On-site,US,M,234300
+2024,Engineer,Entry-level,On-site,US,M,96000
+2023,Data Engineer,Executive-level,On-site,GB,M,98432
+2025,Engineer,Mid-level,On-site,US,M,104650
+2024,Data Engineer,Mid-level,Remote,US,M,82220
+2024,Engineer,Senior-level,On-site,US,M,195500
+2025,AI Engineer,Senior-level,Remote,US,M,139500
+2025,Data Analyst,Entry-level,On-site,US,M,103500
+2025,Data Analyst,Entry-level,On-site,US,M,41880
+2024,Data Analyst,Mid-level,Remote,US,M,70500
+2025,Associate,Mid-level,On-site,US,M,115000
+2024,Data Engineer,Mid-level,On-site,US,M,94000
+2024,Data Scientist,Mid-level,Remote,US,M,243800
+2024,Engineer,Senior-level,On-site,GB,M,70000
+2024,Research Engineer,Mid-level,On-site,US,M,137900
+2024,Machine Learning Engineer,Senior-level,On-site,US,M,164000
+2025,Data Scientist,Mid-level,On-site,US,M,134121
+2024,Data Scientist,Senior-level,On-site,CA,M,212200
+2025,Data Architect,Senior-level,On-site,US,M,142900
+2024,Research Scientist,Senior-level,Remote,US,M,164000
+2025,Manager,Senior-level,On-site,US,M,90100
+2024,AI Engineer,Senior-level,On-site,US,M,95325
+2025,Data Architect,Senior-level,On-site,US,M,330504
+2021,Data Scientist,Senior-level,Hybrid,US,L,54094
+2025,AI Engineer,Mid-level,On-site,US,M,108600
+2021,Data Analyst,Senior-level,Remote,US,S,80000
+2025,Manager,Senior-level,Remote,US,M,145000
+2025,Software Engineer,Mid-level,On-site,US,M,174000
+2023,Data Scientist,Mid-level,Hybrid,IN,L,60805
+2024,Data Engineer,Executive-level,On-site,FR,M,64444
+2024,Data Analyst,Entry-level,Remote,US,M,52488
+2024,Engineer,Mid-level,On-site,US,M,78000
+2024,Manager,Executive-level,On-site,US,M,118680
+2025,Data Architect,Senior-level,On-site,US,M,155000
+2023,Data Scientist,Senior-level,Remote,CA,M,175000
+2025,Data Engineer,Entry-level,On-site,US,M,70000
+2025,Software Engineer,Mid-level,On-site,US,M,120000
+2025,Data Engineer,Mid-level,Remote,US,M,164000
+2025,Machine Learning Engineer,Senior-level,Remote,US,M,303400
+2025,Analytics Engineer,Mid-level,On-site,US,M,156700
+2025,Product Manager,Mid-level,On-site,US,M,294000
+2023,Data Analyst,Mid-level,Hybrid,DE,L,59382
+2025,Software Engineer,Senior-level,On-site,US,M,216700
+2024,Data Engineer,Executive-level,Remote,US,M,201601
+2024,Data Scientist,Senior-level,On-site,GB,M,137500
+2023,Data Analyst,Senior-level,On-site,US,M,122720
+2024,Data Analyst,Senior-level,On-site,US,M,136856
+2025,Data Engineer,Executive-level,Remote,US,M,179500
+2025,Engineer,Senior-level,On-site,US,L,136100
+2024,Manager,Mid-level,On-site,US,M,100000
+2025,Manager,Mid-level,Remote,US,M,350000
+2025,Analyst,Senior-level,On-site,US,M,122800
+2022,Data Analyst,Senior-level,On-site,US,M,131000
+2025,Manager,Mid-level,On-site,NL,M,78315
+2025,Analytics Engineer,Senior-level,On-site,US,M,286900
+2025,Associate,Senior-level,Remote,US,M,87700
+2021,Machine Learning Engineer,Senior-level,Hybrid,US,L,185000
+2024,Data Scientist,Entry-level,Remote,US,M,102643
+2024,Machine Learning Engineer,Senior-level,Remote,US,M,111000
+2024,Associate,Mid-level,On-site,US,M,95425
+2025,Engineer,Senior-level,On-site,US,M,359527
+2020,Data Scientist,Mid-level,Hybrid,FR,S,42197
+2025,Data Analyst,Mid-level,On-site,US,M,222600
+2025,Engineer,Mid-level,Remote,US,M,500000
+2024,Machine Learning Engineer,Mid-level,On-site,US,M,405000
+2025,Machine Learning Engineer,Mid-level,On-site,US,M,75600
+2024,Analyst,Executive-level,On-site,US,M,130920
+2025,Machine Learning Engineer,Senior-level,Remote,US,M,189829
+2025,Engineer,Executive-level,On-site,US,M,156000
+2024,Research Scientist,Senior-level,On-site,GB,M,425000
+2024,Software Engineer,Senior-level,Remote,US,M,145537
+2024,Engineer,Senior-level,On-site,US,M,245575
+2025,Manager,Mid-level,On-site,US,M,379500
+2024,Machine Learning Engineer,Mid-level,On-site,US,M,195000
+2025,Machine Learning Engineer,Executive-level,On-site,US,M,167400
+2024,Data Scientist,Senior-level,On-site,US,M,228439
+2024,AI Engineer,Senior-level,On-site,US,M,288300
+2025,Software Engineer,Mid-level,On-site,US,M,214000
+2025,Data Engineer,Senior-level,Remote,US,M,162150
+2025,Data Engineer,Mid-level,On-site,US,M,120400
+2023,Research Scientist,Senior-level,On-site,US,M,200000
+2024,Data Scientist,Senior-level,On-site,US,M,183000
+2025,Analyst,Entry-level,On-site,US,M,68162
+2025,Analyst,Entry-level,On-site,US,M,110400
+2021,Data Architect,Mid-level,Remote,US,L,170000
+2021,Data Analyst,Entry-level,Remote,US,S,90000
+2021,Data Engineer,Senior-level,Hybrid,GB,S,76833
+2024,Machine Learning Engineer,Mid-level,On-site,US,M,116000
+2023,Data Analyst,Senior-level,Remote,US,S,80000
+2025,Associate,Mid-level,On-site,US,M,281300
+2024,Data Analyst,Entry-level,On-site,US,M,157450
+2025,Engineer,Senior-level,On-site,US,M,135700
+2024,Data Analyst,Senior-level,Remote,US,M,128000
+2025,Manager,Senior-level,On-site,US,M,215500
+2022,Data Engineer,Mid-level,Hybrid,IN,L,35610
+2025,Software Engineer,Senior-level,Remote,US,M,186065
+2025,Data Scientist,Senior-level,On-site,US,M,144000
+2024,Software Engineer,Mid-level,On-site,US,M,231566
+2025,Analytics Engineer,Senior-level,On-site,US,M,153900
+2024,AI Engineer,Mid-level,Remote,US,M,95000
+2025,Data Engineer,Mid-level,Remote,US,M,165000
+2024,Data Analyst,Mid-level,On-site,US,M,118000
+2025,Data Scientist,Senior-level,On-site,US,L,162000
+2024,Data Scientist,Mid-level,On-site,US,M,256500
+2025,Data Engineer,Mid-level,On-site,US,M,142500
+2025,Machine Learning Engineer,Senior-level,On-site,US,M,230000
+2024,Engineer,Mid-level,On-site,US,M,153972
+2024,Data Scientist,Senior-level,On-site,US,M,164000
+2024,Data Analyst,Entry-level,On-site,CA,M,46000
+2025,Data Engineer,Mid-level,On-site,GB,M,79746
+2025,Data Architect,Senior-level,Remote,US,M,179000
+2022,Data Scientist,Executive-level,Hybrid,CA,L,192037
+2023,Data Scientist,Entry-level,Remote,CA,L,51861
+2025,Engineer,Senior-level,On-site,US,M,272700
+2024,Associate,Mid-level,On-site,US,M,176500
+2024,Data Analyst,Entry-level,On-site,US,M,60500
+2025,Data Scientist,Senior-level,Remote,US,M,228790
+2025,Analytics Engineer,Senior-level,Remote,US,L,97400
+2025,Data Scientist,Senior-level,Remote,US,M,162375
+2024,Data Engineer,Mid-level,On-site,US,M,75600
+2024,Data Analyst,Senior-level,On-site,US,M,163700
+2025,Manager,Mid-level,Remote,CA,M,258000
+2025,Software Engineer,Senior-level,Remote,US,M,158000
+2024,AI Engineer,Senior-level,On-site,US,M,202730
+2024,Data Analyst,Senior-level,Remote,US,M,118500
+2021,Machine Learning Engineer,Entry-level,Hybrid,US,S,81000
+2025,Data Scientist,Mid-level,Remote,ES,M,50526
+2024,Data Analyst,Entry-level,On-site,US,M,107600
+2025,Data Analyst,Mid-level,On-site,US,M,130425
+2021,Data Scientist,Senior-level,Hybrid,CA,L,127221
+2025,AI Engineer,Mid-level,On-site,CA,M,118000
+2025,Research Scientist,Senior-level,On-site,US,M,168780
+2025,Data Analyst,Senior-level,On-site,CA,M,71428
+2024,Software Engineer,Mid-level,Remote,US,M,104080
+2025,Data Architect,Senior-level,On-site,US,M,113840
+2025,Data Scientist,Mid-level,Remote,US,M,135000
+2025,Analyst,Mid-level,On-site,US,M,108000
+2024,Analyst,Entry-level,On-site,US,M,65000
+2025,Software Engineer,Mid-level,Remote,US,M,153925
+2024,Analytics Engineer,Mid-level,Remote,CA,S,59615
+2025,Analyst,Mid-level,Remote,US,M,186000
+2023,Research Scientist,Mid-level,On-site,US,M,85000
+2025,Analyst,Senior-level,Remote,US,M,106800
+2025,Engineer,Senior-level,On-site,US,M,150450
+2025,Data Engineer,Senior-level,On-site,US,M,193400
+2025,AI Engineer,Senior-level,On-site,US,M,143000
+2025,Data Scientist,Senior-level,On-site,US,M,237000
+2024,Software Engineer,Entry-level,On-site,US,M,125400
+2024,Machine Learning Engineer,Senior-level,Remote,US,M,157800
+2023,Data Scientist,Mid-level,On-site,US,M,130900
+2025,Data Scientist,Senior-level,On-site,GB,M,151898
+2025,Analytics Engineer,Mid-level,On-site,US,M,87200
+2024,Data Analyst,Senior-level,On-site,US,M,126000
+2024,Engineer,Senior-level,Remote,US,M,259000
+2025,Data Scientist,Senior-level,Remote,US,M,193600
+2025,Analyst,Senior-level,On-site,CA,M,73000
+2024,Data Scientist,Senior-level,On-site,US,M,202600
+2025,Analytics Engineer,Senior-level,On-site,US,M,146000
+2024,Analytics Engineer,Senior-level,On-site,LT,M,55773
+2024,Research Scientist,Senior-level,On-site,US,M,270000
+2025,Data Analyst,Senior-level,On-site,US,M,62000
+2024,Research Scientist,Senior-level,On-site,US,M,211900
+2021,Machine Learning Engineer,Entry-level,Hybrid,DE,M,24823
+2025,Manager,Mid-level,On-site,CA,M,128000
+2023,Research Engineer,Entry-level,On-site,US,M,150000
+2025,Software Engineer,Senior-level,On-site,US,M,196348
+2023,Data Engineer,Senior-level,On-site,DE,M,204500
+2025,Data Scientist,Senior-level,On-site,US,M,112000
+2024,Data Engineer,Mid-level,On-site,US,L,134800
+2025,Data Analyst,Mid-level,On-site,US,M,79320
+2024,Machine Learning Engineer,Senior-level,On-site,US,M,134000
+2024,Data Scientist,Mid-level,On-site,US,M,237500
+2025,Analyst,Senior-level,On-site,US,M,104700
+2021,Data Scientist,Mid-level,Hybrid,DE,L,88654
+2024,Engineer,Mid-level,On-site,US,M,165500
+2024,Data Scientist,Senior-level,Remote,US,M,210788
+2024,Data Architect,Senior-level,On-site,US,M,283500
+2023,Data Scientist,Entry-level,Hybrid,CA,L,77791
+2024,Data Analyst,Senior-level,Remote,US,M,128900
+2024,AI Engineer,Senior-level,On-site,US,S,180000
+2025,Data Analyst,Mid-level,On-site,US,M,75000
+2025,Manager,Senior-level,On-site,US,M,241900
+2023,Data Engineer,Senior-level,On-site,US,M,146000
+2025,Software Engineer,Mid-level,On-site,US,M,164000
+2024,Data Analyst,Senior-level,On-site,IN,M,155000
+2023,Data Scientist,Senior-level,On-site,US,L,272400
+2021,Machine Learning Engineer,Entry-level,Remote,DE,S,85000
+2024,Analyst,Senior-level,Remote,US,M,117000
+2025,Data Scientist,Senior-level,On-site,US,M,97870
+2023,Data Scientist,Entry-level,On-site,US,M,140000
+2025,Data Scientist,Senior-level,Remote,US,M,165550
+2024,Data Engineer,Senior-level,On-site,US,M,105800
+2024,Data Analyst,Entry-level,On-site,US,M,112140
+2023,Analytics Engineer,Senior-level,On-site,CA,M,130000
+2025,Product Manager,Mid-level,On-site,US,M,106680
+2024,Software Engineer,Senior-level,Remote,ES,M,130000
+2024,Data Engineer,Senior-level,On-site,CA,M,132000
+2024,Engineer,Senior-level,On-site,GB,M,127878
+2025,Engineer,Mid-level,On-site,US,M,206860
+2022,Data Analyst,Senior-level,Remote,US,M,81666
+2025,Engineer,Mid-level,On-site,US,M,124000
+2023,Data Analyst,Entry-level,On-site,US,M,83300
+2025,Data Scientist,Mid-level,On-site,US,M,55200
+2025,Data Engineer,Executive-level,Remote,US,M,113000
+2025,Manager,Senior-level,On-site,US,M,169300
+2024,Data Engineer,Executive-level,On-site,US,M,221000
+2024,Data Engineer,Executive-level,Remote,US,M,239662
+2025,Engineer,Mid-level,On-site,US,M,328500
+2025,Engineer,Entry-level,On-site,US,M,76925
+2025,Data Engineer,Executive-level,On-site,US,M,194600
+2024,Engineer,Mid-level,On-site,US,L,162000
+2025,Manager,Senior-level,On-site,CA,M,153200
+2024,Engineer,Senior-level,On-site,GB,M,60592
+2025,Manager,Senior-level,Remote,US,M,215270
+2025,Software Engineer,Mid-level,On-site,US,M,172931
+2024,Research Scientist,Senior-level,On-site,US,L,294700
+2024,Data Scientist,Senior-level,On-site,US,M,166860
